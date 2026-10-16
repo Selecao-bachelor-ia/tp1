@@ -24,7 +24,8 @@ width: 30%;
 
    a {
     color: #D4AF37;         
-    text-decoration: none;   
+    text-decoration: none;
+       margin-left: 20px;
 }
 
 h2{
