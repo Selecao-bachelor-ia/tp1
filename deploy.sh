@@ -2,7 +2,7 @@
 # Indique que ce fichier doit être exécuté avec bash
 
 # On stocke le chemin du dossier du site dans une variable
-DOSSIER="$HOME/serveur/site-equipe"
+DOSSIER="$HOME/serveur/tp1"
 
 # On vérifie si le dossier n'existe PAS (le ! veut dire "non")
 if [ ! -d "$DOSSIER" ]; then
